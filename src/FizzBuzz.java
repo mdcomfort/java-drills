@@ -4,7 +4,7 @@ public class FizzBuzz { // public class FizzBuzz created
         fizzBuzz100(); // function fizzBuzz100 is called
 
 //        for (int i = 1; i <= 100; i++) {
-//            switch(true) {
+//            switch (true) {
 //                case (((i % 5) == 0) && ((i % 3) == 0)):
 //                    System.out.println("fizzbuzz");
 //                    break;
